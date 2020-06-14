@@ -20,11 +20,13 @@ files and we output a txt file detailing the rounds and the winner.
 
 For a very visual an easy to understand explanation on voting systems, I suggest you watch 
 the YouTube video by TED-Ed, *Which voting system is the best? - Alex Gendler*.
-https://www.youtube.com/watch?v=PaxVCsnox_4
+
+Video Link: https://www.youtube.com/watch?v=PaxVCsnox_4
 
 If you like to know more about *Instant-Runoff Voting* and *Plurality Voting*, the Wikipedia
 pages for these have some very helpful visual examples.
 
 Instant-Runoff Voting: https://en.wikipedia.org/wiki/Instant-runoff_voting
+
 Plurality Voting: https://en.wikipedia.org/wiki/Plurality_voting#Examples_of_plurality_voting
 
